@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Madi. I'm a game and web developer living in Indiana.
 
-### More Information
+### Programming languages
+- .NET family: C# and C++
+- PHP web development
+- Python
+- JavaScript
 
-A place to include any other types of information that you'd like to include about yourself.
+### Markup languages
+- HTML
+- XAML
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please contact me at the email below.
+
+[madisive@gmail.com](mailto:madisive@gmail.com)
