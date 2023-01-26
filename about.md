@@ -18,7 +18,7 @@ My blog here is mostly just for fun. It may contain both lighthearted and seriou
 - HTML/CSS/JS
 - XAML
 
-### Club Penguin - former Disney MMO, 2005-2017
+### Club Penguin — former Disney MMO, 2005-2017
 I joined Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular one in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
 
 ### Contact me
