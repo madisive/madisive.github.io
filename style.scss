@@ -74,6 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: #fff;
+    border-color: #fff;
   }
 }
 
@@ -231,10 +232,13 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    border: 1px solid;
+    border-color: skyblue;
+    padding: 5px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: skyblue;
     }
   }
 }
