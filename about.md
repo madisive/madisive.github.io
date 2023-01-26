@@ -23,4 +23,5 @@ I joined Club Penguin in 2006. From 2009 to 2016, I was active in the world of C
 
 ### Contact me
 I mostly use Signal and Snapchat. Contact me at (252) 515-1046 or madisive. Otherwise shoot me a message through the email below.
+
 [madisive@gmail.com](mailto:madisive@gmail.com)
