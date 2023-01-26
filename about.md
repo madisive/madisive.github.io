@@ -7,7 +7,7 @@ permalink: /about/
 Hi I'm Madi! I live in Indiana, USA. I love to mix music and blog about what's important to me here. I'm a hobbyist game developer.
 
 ### My blog
-My blog here is mostly for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :D
+My blog here is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :D
 
 ### Programming languages I know
 - C# and C++, multiplayer server engineering
