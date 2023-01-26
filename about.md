@@ -9,8 +9,8 @@ Hi I'm Madi! I live in Indiana, USA. I love to mix music, play games, and blog a
 ### My blog
 My blog here is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :D
 
-### My time playing Club Penguin (MMO game, 2005-2017)
-I joined Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular CPPS in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
+### My time playing Club Penguin
+I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular CPPS in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
 
 ### Programming languages I know
 - C# and C++, multiplayer server engineering
