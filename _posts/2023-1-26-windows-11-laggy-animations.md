@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animations in Windows 11 are laggy and terrible
+title: The animations in Windows 11 are laggy and terrible
 ---
 
 Microsoft has dropped the ball on the new UI "animation effects" in Windows 11. Not only are these aesthetically unappealing when used in certain places, but the inconsistent and overly slow attack times on the animations can give the illusion of input lag or low FPS on some machines. This creates a user experience that just feels more unresponsive.
