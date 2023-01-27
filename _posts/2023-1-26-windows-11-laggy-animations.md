@@ -7,8 +7,8 @@ Microsoft has dropped the ball on the new UI animations in Windows 11. Not only 
 
 This issue is especially apparent in Windows 11's sluggish context menus. Compare hovering the mouse cursor on Explorer right-click menu options with **animations turned on** (left) vs. **animations turned off** (right).
 
-<img src="{{ site.baseurl }}/images/win11-anims-on.gif" width="200" height="200"> <img src="{{ site.baseurl }}/images/win11-anims-off.gif" width="200" height="200">
+<img src="{{ site.baseurl }}/images/win11-anims-on.gif" width="300" height="300"> <img src="{{ site.baseurl }}/images/win11-anims-off.gif" width="300" height="300">
 
 Turn them off by heading to **Start > search 'Animation' > Animation effects**.
 
-<img src="{{ site.baseurl }}/images/win11-anims-settings.png" width="400" height="200">
+<img src="{{ site.baseurl }}/images/win11-anims-settings.png" width="600" height="300">
