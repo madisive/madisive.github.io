@@ -18,6 +18,7 @@ I love to make music, remixes, mashups, and other videos. Check out my [YouTube 
 I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular CPPS in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
 
 ### PC specs
+- Case: Fractal Design Define R5
 - Motherboard: MSI MPG Z790 Carbon WiFi
 - CPU: Intel Core i9-13900K
 - RAM: 32GB DDR5
