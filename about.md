@@ -12,7 +12,7 @@ In my free time, I also enjoy gaming and music mixing. I'm a hobbyist software d
 This blog is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :)
 
 ### YouTube channel
-I like to make music, remixes, mashups, and other videos.
+I enjoy making music, remixes, mashups, and other videos.
 
 Visit my [YouTube channel](https://www.youtube.com/@madi2176).
 
