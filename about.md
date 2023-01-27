@@ -18,7 +18,10 @@ I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in t
 I love to make music, remixes, mashups, and other videos. Check out my [YouTube channel](https://www.youtube.com/@madi2176).
 
 ### PC specs
-MSI MPG Z790 Carbon WiFi, Intel Core i9-13900K, 32GB DDR5. Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
+- Motherboard: MSI MPG Z790 Carbon WiFi
+- CPU: Intel Core i9-13900K
+- RAM: 32GB DDR5
+- Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
 
 ### Programming languages I know
 - C# and C++, multiplayer server engineering
