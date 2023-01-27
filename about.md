@@ -11,13 +11,13 @@ In my free time I also enjoy gaming and music mixing. I'm a hobbyist software de
 ### My blog
 This blog is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :)
 
-### YouTube
-I love to make music, remixes, mashups, and other videos. Check out my [YouTube channel](https://www.youtube.com/@madi2176).
-
 ### My time playing Club Penguin
 I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular CPPS in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
 
-### My current PC
+### YouTube
+I love to make music, remixes, mashups, and other videos. Check out my [YouTube channel](https://www.youtube.com/@madi2176).
+
+### PC specs
 MSI MPG Z790 Carbon WiFi, i9-13900k, 32GB DDR5. Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
 
 ### Programming languages I know
