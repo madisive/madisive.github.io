@@ -10,4 +10,5 @@ This issue is especially apparent in Windows 11's sluggish context menus. Compar
 ![Windows 11 animations on]({{ site.baseurl }}/images/win11-anims-on.gif | width=200) ![Windows 11 animations off]({{ site.baseurl }}/images/win11-anims-off.gif | width=200)
 
 Turn them off by heading to **Start > search 'Animation' > Animation effects**.
+
 ![Windows 11 animations settings]({{ site.baseurl }}/images/win11-anims-settings.png | width=400)
