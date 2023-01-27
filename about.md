@@ -9,7 +9,7 @@ Hi I'm Madi! I live in Indiana, USA. Here I blog about what's important to me.
 In my free time, I enjoy playing video games and mixing music. I'm a hobbyist software developer.
 
 ### My blog
-This blog is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions. Check it out :)
+This blog is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions.
 
 ### YouTube channel
 I enjoy posting music, remixes, mashups, and other videos.
