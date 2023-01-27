@@ -19,8 +19,11 @@ I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in t
 
 ### My current PC
 MSI MPG Z790 Carbon WiFi
+
 i9-13900k
+
 32GB DDR5-5600
+
 Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
 
 ### Programming languages I know
