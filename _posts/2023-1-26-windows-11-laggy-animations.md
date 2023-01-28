@@ -11,4 +11,4 @@ The issues are especially apparent when working with now-sluggish context menus 
 
 Turn them off by heading to **Start > search 'animation' > Animation effects**.
 
-<img src="{{ site.baseurl }}/images/win11-anims-settings.png" width="600" height="300">
+<img src="{{ site.baseurl }}/images/win11-anims-settings.png" width="400" height="200">
