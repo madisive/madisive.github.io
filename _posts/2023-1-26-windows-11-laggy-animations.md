@@ -9,6 +9,6 @@ The issues are especially apparent when working with now-sluggish context menus 
 
 <img src="{{ site.baseurl }}/images/win11-anims-on.gif" width="300" height="300"> <img src="{{ site.baseurl }}/images/win11-anims-off.gif" width="300" height="300">
 
-Turn them off by heading to **Start > search 'Animation' > Animation effects**.
+Turn them off by heading to **Start > search 'animation' > Animation effects**.
 
 <img src="{{ site.baseurl }}/images/win11-anims-settings.png" width="600" height="300">
