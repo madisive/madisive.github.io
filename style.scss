@@ -28,6 +28,10 @@ body {
   max-width: 1024px;
   padding: 0 20px;
   width: 100%;
+	
+  h1 {
+    line-height: 1.2;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,6 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 40px;
+	
   a {
     color: inherit;
   }
@@ -275,10 +280,6 @@ nav {
     font-size: 15px;
   }
 	
-  h1 {
-    line-height: 1.2;
-  }
-	
   p:first-child:first-letter {
     color: #fff;
     float: left;
@@ -288,12 +289,6 @@ nav {
     padding-top: 5px;
     padding-right: 8px;
     padding-left: 3px;
-  }
-}
-
-.page {
-  h1 {
-    line-height: 1.2;
   }
 }
 
