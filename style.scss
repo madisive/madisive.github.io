@@ -28,10 +28,6 @@ body {
   max-width: 1024px;
   padding: 0 20px;
   width: 100%;
-	
-  h1 {
-    line-height: 1.2;
-  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -251,9 +247,15 @@ nav {
 // .main
 //
 
+.page, .post {
+  h1 {
+    line-height: 1.2;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #777;
 }
 
 .posts > .post:last-child {
@@ -270,15 +272,6 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
 	
   p:first-child:first-letter {
     color: #fff;
@@ -289,6 +282,15 @@ nav {
     padding-top: 5px;
     padding-right: 8px;
     padding-left: 3px;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
   }
 }
 
