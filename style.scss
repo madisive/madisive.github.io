@@ -255,7 +255,8 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #777;
+  border-bottom: 1.75px solid;
+  border-image: linear-gradient(to left, #444 0%, transparent 100%) 100% 1;
 }
 
 .posts > .post:last-child {
