@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 20px;
+  margin: 1em 0 25px;
   padding: 0;
 
   @include mobile {
@@ -288,6 +288,12 @@ nav {
     padding-top: 5px;
     padding-right: 8px;
     padding-left: 3px;
+  }
+}
+
+.page {
+  h1 {
+    line-height: 1.2;
   }
 }
 
