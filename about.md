@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Madi! I live in Indiana, USA. Here I blog about what's important to me.
+Hi, I'm Madi! I live in Indiana, USA. Here I blog about what's important to me.
 
 In my free time, I enjoy playing video games and mixing music. I'm a hobbyist software developer.
 
