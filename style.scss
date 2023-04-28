@@ -225,6 +225,7 @@ nav {
     font-size: 16px;
   }
 
+  /* Nav a buttons */
   a {
     margin-left: 20px;
     color: #skyblue;
@@ -233,6 +234,7 @@ nav {
     letter-spacing: 1px;
     border: 1px solid;
     border-color: skyblue;
+    border-radius: 6px;
     padding: 6px;
 
     @include mobile {
