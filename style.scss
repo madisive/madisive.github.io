@@ -231,8 +231,8 @@ nav {
     letter-spacing: 1px;
     border: 1px solid;
     border-color: skyblue;
-    border-radius: 6px;
-    padding: 6px;
+    border-radius: 24px;
+    padding: 9px 18px;
 
     @include mobile {
       margin: 0 10px;
