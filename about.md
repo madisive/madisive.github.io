@@ -38,4 +38,4 @@ I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in t
 ### Contact me
 I mostly use Signal and Snapchat. Contact me at (252) 515-1046 or madisive. You can also shoot me an email:
 
-[madisive@gmail.com](mailto:madisive@gmail.com)
+[madisivelle@gmail.com](mailto:madisivelle@gmail.com)
