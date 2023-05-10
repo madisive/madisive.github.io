@@ -252,8 +252,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1.75px solid;
-  border-image: linear-gradient(to left, #444 0%, transparent 100%) 100% 1;
+  border-bottom: 1px dotted #222222;
 }
 
 .posts > .post:last-child {
@@ -293,7 +292,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin: 50px auto 50px auto;
+  margin: 20px auto 20px auto;
   max-width: 1040px;
   background-color: #222222;
   border-radius: 12px;
