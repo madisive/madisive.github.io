@@ -230,7 +230,7 @@ nav {
     letter-spacing: 1px;
     border: 1px solid;
     border-color: skyblue;
-    border-radius: 24px;
+    border-radius: 24px; // rounded
     padding: 8px 16px;
 
     @include mobile {
