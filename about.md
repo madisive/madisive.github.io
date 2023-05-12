@@ -16,14 +16,14 @@ I enjoy posting music, remixes, mashups, and other videos.
 
 Visit my [YouTube channel](https://www.youtube.com/@madi2176).
 
-### PC
+### Computer
 - Case: Fractal Design Define R5
 - Motherboard: MSI MPG Z790 Carbon WiFi
 - CPU: Intel Core i9-13900K
 - RAM: 32GB DDR5
 - Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
 
-### Software
+### Software Development
 I'm a hobbyist software developer.
 - C# and C++, multiplayer server engineering
 - PHP, web & game design
