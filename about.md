@@ -23,7 +23,7 @@ Visit my [YouTube channel](https://www.youtube.com/@madi2176).
 - RAM: 32GB DDR5
 - Full specs on [UserBenchmark](https://www.userbenchmark.com/UserRun/58729356)
 
-### Software Development
+### Software development
 I'm a hobbyist software developer.
 - C# and C++, multiplayer server engineering
 - PHP, web & game design
