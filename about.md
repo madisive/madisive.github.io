@@ -33,6 +33,6 @@ I'm a hobbyist software developer.
 I joined the MMO game Club Penguin in 2006. From 2009 to 2016, I was active in the world of Club Penguin cheats and private servers. I moderated a few servers and opened my own popular CPPS in 2012 and 2015. A small team and I later created CPSL, a server listing website for the community.
 
 ## Contact me
-Contact me on Signal at (252) 515-1046. You can also shoot me an email at:
+Text me on Signal at (252) 515-1046. You can also shoot me an email at:
 
 [madisivelle@gmail.com](mailto:madisivelle@gmail.com)
