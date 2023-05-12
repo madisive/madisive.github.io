@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UI animations in Windows 11 are bad
+title: UI Animations in Windows 11 Are Bad
 ---
 
 Microsoft may have dropped the ball on animation effects in Windows 11. Not only are these aesthetically unappealing when used in certain places, but the inconsistency and somewhat long attack times of the animations can create an illusion of input lag or low FPS on some machines. This results in a user experience that just feels less responsive.
