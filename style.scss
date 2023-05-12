@@ -19,7 +19,9 @@ html {
 
 body {
   background: #111111;
-  font: 18px/1.4 $helvetica;
+  font-family: Source Sans Pro;
+  font-size: 19px;
+  line-height: 1.3;
   color: #ddd;
 }
 
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: Source Sans Pro;
   color: #eee;
   font-weight: bold;
 
@@ -201,7 +203,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: #ddd;
-  font-size: 16px;
+  font-size: 17px;
 
   @include mobile {
     margin: 3px 0;
