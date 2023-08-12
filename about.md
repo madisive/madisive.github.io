@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Madi! I live in Indiana, USA.
 
-In my free time, I enjoy shopping, traveling, Disney, making music, and gaming.
+In my free time, I enjoy shopping, traveling, making music, Disney, and gaming.
 
 ## My blog
 This blog is mostly just for fun. It may contain both lighthearted and serious content, with posts ranging from rants to reviews to my personal opinions.
